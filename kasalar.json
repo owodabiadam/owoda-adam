@@ -1,0 +1,41 @@
+[
+	{
+		"isim": "Vus Mon Başlangıç Kasası",
+    "açıklama": "Başlangıç olarak ideal olan bir kasa.",
+		"fiyat": "200",
+    "kasaid": "1"
+	},
+	{
+		"isim": "Vus Mon Orta Düzey Kasası",
+    "açıklama": "Orta düzeyde olan bir kasa.",
+		"fiyat": "500",
+    "kasaid": "2"
+	},
+	{
+		"isim": "Yüksek Seviye Kasa",
+    "açıklama": "Yüksek seviye bir kasa.",
+		"fiyat": "1000",
+    "kasaid": "3"
+	},
+	{
+		"isim": "Elit Seviye Kasa",
+    "açıklama": "ELİT seviye bir kasa.",
+		"fiyat": "2000",
+    "kasaid": "4"
+	},
+	{
+		"isim": "Uğurlu Efsanevi Kasası",
+    "açıklama": "EFSANEVİ bir kasa dikkatli açılması önerilir.",
+		"fiyat": "10000",
+    "kasaid": "5"
+	},
+  	{
+		"isim": "Anqriel Kasa",
+    "açıklama": "Özel Kasa",
+		"fiyat": "50000",
+    "kasaid": "6"
+	}
+
+  
+
+]
